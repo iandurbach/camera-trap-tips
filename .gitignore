@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.
+data/
+reports/
+rsconnect/
+*/data/
+*.png
+*.pdf
+*.docx
