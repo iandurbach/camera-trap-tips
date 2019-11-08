@@ -5,7 +5,9 @@
 data/
 reports/
 rsconnect/
+cheatsheets/*.R
 */data/
 *.png
 *.pdf
 *.docx
+!cheatsheets/*.pdf
