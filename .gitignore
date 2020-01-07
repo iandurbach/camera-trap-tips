@@ -6,6 +6,7 @@ data/
 reports/
 rsconnect/
 cheatsheets/*.R
+cheatsheets/gslep/
 */data/
 *.png
 *.pdf
